@@ -1,0 +1,11 @@
+# Interval between broadcasts given in seconds
+interval: 10
+# Optional formatting to give a consistent style to announcements
+formatting:
+  header: '------------------------------------------------------'
+  footer: '------------------------------------------------------'
+# List of messages to be broadcast server-wide
+messages:
+  - '&1Announcement #1'
+  - '&2Announcement #2'
+  - '&3Announcement #3'

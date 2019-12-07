@@ -1,0 +1,7 @@
+name: YAAP
+description: |
+  Yet Another Announcer Plugin
+  A reference implementation to demonstrate basic Java syntax in a practical manner
+author: smrkn <nuisance@smrkn.com>
+version: ${version}
+main: com.smrkn.announcer.AnnouncerPlugin
